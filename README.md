@@ -10,6 +10,5 @@ Light/Dark toggle mode.
 Usage of Customtkniter to make a more modern UI 
 (Link to CustomTkniter: https://customtkinter.tomschimansky.com/)
 
-
 Issues:
 There is a pause/resume button that I haven't figured out yet
